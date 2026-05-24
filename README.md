@@ -6,7 +6,7 @@ Former QA lead at Blizzard Entertainment with 10 years of experience breaking so
 
 | Project | Description | Stack |
 |---|---|---|
-| AI Bug Reporter | Natural language to structured Jira ticket with screenshot analysis | Node.js, Claude API, Jira REST API |
+| [AI Bug Reporter](https://github.com/garretcraig/ai-bug-reporter) | Natural language to structured Jira ticket with screenshot analysis | Node.js, Claude API, Jira REST API |
 | Playwright Test Generator | Describe a test in plain English — Claude writes and runs it | Node.js, Claude API, Playwright |
 | QA Metrics Dashboard | SQL-backed reporting tool for surfacing test coverage gaps | SQLite, Node.js |
 | AI QA Automation Loop | Describe test → generate script → run → auto-file bug ticket on failure | Node.js, Claude API, Playwright, Jira |
