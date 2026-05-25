@@ -6,10 +6,10 @@ Former QA lead at Blizzard Entertainment with 10 years of experience breaking so
 
 | Project | Version | Description | Stack |
 |---|---|---|---|
-| [AI Bug Reporter](https://github.com/garretcraig/ai-bug-reporter) | v1.0.0 | Natural language to structured Jira ticket with screenshot analysis | Node.js, Claude API, Jira REST API |
+| [AI Bug & Issue Reporter](https://github.com/garretcraig/ai-bug-reporter) | v1.0.0 | Natural language to structured Jira ticket with screenshot analysis | Node.js, Claude API, Jira REST API |
 | [Playwright AI](https://github.com/garretcraig/playwright-ai) | v1.1.0 | Describe a test in plain English — Claude writes and runs it across Chromium, Firefox, or WebKit. URL validation ensures the correct target is always tested. | Node.js, Claude API, Playwright |
 | [QA Automation Loop](https://github.com/garretcraig/qa-automation-loop) | v1.1.0 | Describe test → Claude writes it → runs with 3-attempt retry logic to filter flaky failures → files Jira ticket on confirmed failure | Node.js, Claude API, Playwright, Jira |
-| [QA Metrics Dashboard](https://github.com/garretcraig/qa-metrics-dashboard) | v2.1.0 | 14 preset metrics across bug and test categories, date range filtering, and Claude-powered natural language custom queries. Generates a full HTML report with Chart.js visualizations. | Node.js, Claude API, SQLite, Chart.js |
+| [QA Metrics Dashboard](https://github.com/garretcraig/qa-metrics-dashboard) | v2.3.0 | 14 preset metrics across bug and test categories, date range filtering, and Claude-powered natural language custom queries. Browser-based config UI, clickable drilldown modals, and Jira deep links. Generates a full HTML report with Chart.js visualizations. | Node.js, Claude API, SQLite, Chart.js |
 
 ## Tech Stack
 
